@@ -47,17 +47,8 @@ I believe in learning by building and improving through every project I work on.
 </p>
 
 <p align="left">
-  <img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/simple-icons/tinkercad-400.png"
-       width="48"
-       height="48"
-       alt="Tinkercad">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/logos/tableau-icon-400.png"
-       width="48"
-       height="48"
-       alt="Tableau">
+  <img src="https://img.shields.io/badge/Tinkercad-1479C9?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </p>
 
 ---
@@ -124,12 +115,13 @@ A small Verilog project implementing a basic traffic light controller using a fi
 
 ---
 
-## GitHub Statistics
+## Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavithra-project1&show_icons=true&theme=default&hide_border=true"
-       alt="Pavithra's GitHub Stats">
-
-  &nbsp;&nbsp;
-
-  <img src="https://github
+  <a href="https://www.linkedin.com/in/pavithra176">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Pavithra-project1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
