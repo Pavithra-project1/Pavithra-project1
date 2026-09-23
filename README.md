@@ -49,10 +49,8 @@ I believe in learning by building and improving through every project I work on.
 <p align="left">
   <img src="https://cdn.simpleicons.org/tinkercad/1479C9" width="48" height="48" alt="Tinkercad">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="48" height="48" alt="Tableau">
 </p>
-
----
 
 ## Projects
 
