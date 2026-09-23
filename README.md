@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavithra176">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Pavithra-project1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -30,32 +30,26 @@ I believe in learning by building and improving through every project I work on.
 
 ### Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ### Web & Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,mysql" />
 </p>
 
 ### Tools & Technologies
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,figma,git,github" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Tinkercad-1479C9?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-1F4E79?style=for-the-badge&logoColor=white">
-</p>
-
-### Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Verilog%20HDL-1565C0?style=flat-square">
-  <img src="https://img.shields.io/badge/RTL%20Design-1976D2?style=flat-square">
+<p align="left">
+  <img height="48" src="https://cdn.simpleicons.org/tinkercad/1479C9" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/tableau/E97627" />
 </p>
 
 ---
@@ -98,7 +92,7 @@ A small Verilog project implementing a basic traffic light controller using a fi
 
 ### Embedded Systems Intern
 
-- Learned fundamentals of embedded systems and Arduino programming.
+- Learned the fundamentals of embedded systems and Arduino programming.
 - Designed and simulated basic embedded circuits using Tinkercad.
 - Developed a 7-segment display interface using Arduino.
 
@@ -134,7 +128,7 @@ A small Verilog project implementing a basic traffic light controller using a fi
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithra-project1&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithra-project1&hide_border=true">
 </p>
 
 ---
@@ -146,19 +140,4 @@ A small Verilog project implementing a basic traffic light controller using a fi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=4-bit-alu-verilog&hide_border=true">
   </a>
   <a href="https://github.com/Pavithra-project1/7-Segment-Display-Embedded-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=7-Segment-Display-Embedded-Project&hide_border=true">
-  </a>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavithra176">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Pavithra-project1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+    <img src="https://github-readme-stats.vercel
