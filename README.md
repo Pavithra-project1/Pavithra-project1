@@ -47,10 +47,20 @@ I believe in learning by building and improving through every project I work on.
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/tinkercad/1479C9" width="48" height="48" alt="Tinkercad">
+  <img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/simple-icons/tinkercad-400.png"
+       width="48"
+       height="48"
+       alt="Tinkercad">
+
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="48" height="48" alt="Tableau">
+
+  <img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/logos/tableau-icon-400.png"
+       width="48"
+       height="48"
+       alt="Tableau">
 </p>
+
+---
 
 ## Projects
 
@@ -117,41 +127,9 @@ A small Verilog project implementing a basic traffic light controller using a fi
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavithra-project1&show_icons=true&theme=default&hide_border=true" alt="Pavithra's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavithra-project1&show_icons=true&theme=default&hide_border=true"
+       alt="Pavithra's GitHub Stats">
+
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra-project1&layout=compact&theme=default&hide_border=true" alt="Top Languages">
-</p>
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pavithra-project1&theme=default&hide_border=true" alt="GitHub Contribution Streak">
-</p>
-
----
-
-## Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Pavithra-project1/4-bit-alu-verilog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=4-bit-alu-verilog&theme=default&hide_border=true" alt="4-Bit ALU">
-  </a>
-  <a href="https://github.com/Pavithra-project1/7-Segment-Display-Embedded-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=7-Segment-Display-Embedded-Project&theme=default&hide_border=true" alt="7-Segment Display">
-  </a>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavithra176">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Pavithra-project1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+  <img src="https://github
