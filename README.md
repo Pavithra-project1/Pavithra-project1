@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavithra176">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Pavithra-project1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -31,25 +31,25 @@ I believe in learning by building and improving through every project I work on.
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="C C++ Python">
 </p>
 
 ### Web & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,mysql" alt="HTML CSS MySQL">
 </p>
 
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=arduino,figma,git,github" alt="Arduino Figma Git GitHub">
 </p>
 
 <p align="left">
-  <img height="48" src="https://cdn.simpleicons.org/tinkercad/1479C9" />
+  <img src="https://cdn.simpleicons.org/tinkercad/1479C9" width="48" height="48" alt="Tinkercad">
   &nbsp;&nbsp;&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/tableau/E97627" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau">
 </p>
 
 ---
@@ -119,8 +119,9 @@ A small Verilog project implementing a basic traffic light controller using a fi
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavithra-project1&show_icons=true&theme=default&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra-project1&layout=compact&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavithra-project1&show_icons=true&theme=default&hide_border=true" alt="Pavithra's GitHub Stats">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra-project1&layout=compact&theme=default&hide_border=true" alt="Top Languages">
 </p>
 
 ---
@@ -128,7 +129,7 @@ A small Verilog project implementing a basic traffic light controller using a fi
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithra-project1&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=Pavithra-project1&theme=default&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
 ---
@@ -137,7 +138,22 @@ A small Verilog project implementing a basic traffic light controller using a fi
 
 <p align="center">
   <a href="https://github.com/Pavithra-project1/4-bit-alu-verilog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=4-bit-alu-verilog&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=4-bit-alu-verilog&theme=default&hide_border=true" alt="4-Bit ALU">
   </a>
   <a href="https://github.com/Pavithra-project1/7-Segment-Display-Embedded-Project">
-    <img src="https://github-readme-stats.vercel
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=7-Segment-Display-Embedded-Project&theme=default&hide_border=true" alt="7-Segment Display">
+  </a>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavithra176">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Pavithra-project1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
