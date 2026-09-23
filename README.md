@@ -2,42 +2,47 @@
 
 <p align="center">
   <b>B.E. Electronics & Communication Engineering Student</b><br>
-  VLSI & RTL Design | Verilog | Embedded Systems
+  Exploring Technology Through Projects, Learning and Continuous Growth
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VLSI-1E88E5?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Verilog-1565C0?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-1976D2?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Digital%20Design-0D47A1?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Engineering_Student-1565C0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Projects-1976D2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Continuous_Learning-1E88E5?style=for-the-badge">
 </p>
 
 ---
 
 ## About Me
 
-I am a B.E. Electronics and Communication Engineering student interested in VLSI, RTL Design, Digital Electronics and Embedded Systems.
+I am a B.E. Electronics and Communication Engineering student interested in learning and exploring different areas of technology.
 
-I enjoy learning through projects and simulation-based work while developing my technical skills.
+I am building my technical skills through projects, internships and continuous learning, with exposure to programming, design, data, electronics and technology-based applications.
 
 ---
 
 ## Technical Skills
 
-**Programming:**  
-C, C++, Python
+**Programming**
+- C
+- C++
+- Python
 
-**VLSI & Digital Design:**  
-Verilog HDL, Digital Design, RTL Design, FSM, Simulation and Verification Basics
+**Web & Database**
+- HTML
+- CSS
+- MySQL
 
-**Embedded Systems & Simulation:**  
-Arduino, Tinkercad
+**Tools & Technologies**
+- Arduino
+- Tinkercad
+- Tableau
+- Figma
 
-**Web & Database:**  
-HTML, CSS, MySQL
-
-**Data Visualization & Design:**  
-Tableau, Figma
+**Digital Design — Learning**
+- Verilog HDL
+- RTL Design
+- Finite State Machines
 
 ---
 
@@ -51,19 +56,19 @@ Designed and simulated a 7-segment display interface using Arduino and Tinkercad
 
 ### Food Ordering Mobile App – UX/UI Design
 
-Designed a user-friendly food ordering mobile app with menu, food details, cart and checkout screens.
+Designed a food ordering mobile app interface with menu, food details, cart and checkout screens.
 
 **Tool:** Figma
 
 ### 4-Bit ALU using Verilog
 
-A small Verilog-based project implementing basic arithmetic and logic operations using a 4-bit ALU.
+Implemented a small 4-bit ALU project using Verilog to perform basic arithmetic and logic operations.
 
 **Tool:** Verilog HDL
 
 ### Traffic Light FSM
 
-A small Verilog project implementing a basic traffic light controller using a finite state machine.
+Created a small Verilog-based traffic light controller using a finite state machine.
 
 **Tool:** Verilog HDL
 
@@ -75,7 +80,7 @@ A small Verilog project implementing a basic traffic light controller using a fi
 
 - Assisted in data analysis tasks using analytical tools and techniques.
 - Applied data-driven approaches to interpret datasets and support analysis.
-- Contributed to data analysis activities throughout the internship.
+- Contributed to data analysis activities during the internship.
 
 ### Embedded Systems Intern
 
@@ -93,11 +98,13 @@ A small Verilog project implementing a basic traffic light controller using a fi
 
 ---
 
-## Career Interest
+## Currently Learning
 
-Interested in internship and entry-level opportunities in:
-
-**VLSI | RTL Design | Digital Design | Embedded Systems**
+- Programming and problem solving
+- Digital design fundamentals
+- Verilog HDL
+- RTL concepts
+- Project development and simulation
 
 ---
 
