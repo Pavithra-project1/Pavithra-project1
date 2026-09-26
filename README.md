@@ -1,117 +1,91 @@
-<h1 align="center">Hi 👋, I'm Pavithra S</h1>
-
-<h3 align="center">
-  B.E. Electronics & Communication Engineering Student | Exploring Technology Through Projects & Learning
-</h3>
+<h1 align="center">Hi, I'm Pavithra S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering+Student;C+%7C+C%2B%2B+%7C+Python;Data+%7C+Design+%7C+Technology;Always+Learning+Through+Projects" />
+  Electronics and Communication Engineering Student
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavithra176">LinkedIn</a> •
+  <a href="https://github.com/Pavithra-project1">GitHub</a> •
+  <a href="mailto:singaramvelan203@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.E. Electronics and Communication Engineering student at **Vivekanandha College of Technology for Women**.
-- 💻 Interested in learning programming, technology and developing practical projects.
-- 📊 Gaining exposure to **data analysis and data visualization** through internship experience.
-- 🔧 Exploring **Arduino and Tinkercad** through embedded systems projects.
-- 🎨 Interested in **UI/UX design** and creating user-friendly interfaces.
-- 🌱 Continuously improving my technical and problem-solving skills through projects and practical learning.
-- ⚡ I believe in learning by building and improving through every project.
+I am a B.E. Electronics and Communication Engineering student interested in exploring technology, programming, embedded systems, data analysis, and UI/UX design.
+
+I enjoy learning new technologies, working on practical projects, and improving my technical and problem-solving skills.
+
+Currently, I am exploring digital design fundamentals, Verilog HDL, embedded systems, programming, and project development.
 
 ---
 
-## 🌐 Connect With Me
+## Technical Skills
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavithra176">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+**Programming Languages**
 
-  <a href="https://github.com/Pavithra-project1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+C • C++ • Python
 
-  <a href="mailto:singaramvelan203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Web Technologies**
 
----
+HTML • CSS
 
-# 💻 Tech Stack
+**Database**
 
-### Programming Languages
+MySQL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
+**Embedded Systems & Simulation**
 
-### Web & Database
+Arduino • Tinkercad
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql" />
-</p>
+**Data Visualization**
 
-### Tools & Technologies
+Tableau
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,figma,git,github" />
-</p>
+**UI/UX Design**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tinkercad-1479C9?style=for-the-badge&logo=tinkercad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+Figma
 
 ---
 
-# 🚀 Featured Projects
+## Projects
 
-## 🔢 7-Segment Display Interface using Arduino
+### 7-Segment Display Interface using Arduino
 
 Designed and simulated a 7-segment display interface using Arduino and Tinkercad to display numeric digits.
 
-**Tools:** `Arduino` `Tinkercad`
+**Tools:** Arduino, Tinkercad
+
+### Food Ordering Mobile App – UI/UX Design
+
+Designed a user-friendly food ordering mobile application with menu, food details, cart, and checkout screens.
+
+**Tool:** Figma
+
+### 4-Bit ALU using Verilog
+
+Designed a 4-bit Arithmetic Logic Unit using Verilog HDL supporting multiple arithmetic and logical operations.
+
+**Tools:** Verilog HDL, EDA Playground
+
+### Traffic Light Controller using Verilog
+
+Designed a traffic light controller using a finite state machine and verified its operation using a testbench.
+
+**Tools:** Verilog HDL, EDA Playground
 
 ---
 
-## 🍔 Food Ordering Mobile App – UI/UX Design
+## Internship Experience
 
-Designed a user-friendly food ordering mobile application with menu, food details, cart and checkout screens.
-
-**Tool:** `Figma`
-
----
-
-## 🔢 4-Bit ALU using Verilog
-
-A small Verilog project implementing basic arithmetic and logic operations using a 4-bit ALU.
-
-**Tool:** `Verilog HDL`
-
----
-
-## 🚦 Traffic Light FSM
-
-A small Verilog project implementing a basic traffic light controller using a finite state machine.
-
-**Tool:** `Verilog HDL`
-
----
-
-# 💼 Internship Experience
-
-## 📊 Data Analytics Intern
+### Data Analytics Intern
 
 - Assisted in data analysis tasks using analytical tools and techniques.
 - Applied data-driven approaches to interpret datasets and support analysis.
-- Contributed to data analysis activities throughout the internship.
 
----
-
-## 🔧 Embedded Systems Intern
+### Embedded Systems Intern
 
 - Learned the fundamentals of embedded systems and Arduino programming.
 - Designed and simulated basic embedded circuits using Tinkercad.
@@ -119,64 +93,40 @@ A small Verilog project implementing a basic traffic light controller using a fi
 
 ---
 
-# 📚 Certifications
+## Certifications & Workshops
 
-- **Honours Diploma in Computer Applications (HDCA)**
-- **UX/UI Design Certification**
-- **Workshop Participation Certificate**
+- Honours Diploma in Computer Applications (HDCA)
+- UX/UI Design Certification
+- Workshop – Generative Engineering with AI Tools
 
 ---
 
-# 🛠 Currently Exploring
+## Currently Exploring
 
-- Programming and problem solving
-- Data analysis and visualization
-- UI/UX design
-- Arduino and embedded systems
-- Digital design fundamentals
+- Programming and Problem Solving
+- Data Analysis and Visualization
+- UI/UX Design
+- Arduino and Embedded Systems
+- Digital Design Fundamentals
 - Verilog HDL
-- Project development
+- Project Development
 
 ---
 
-# 📊 GitHub Activity
+## Career Focus
+
+I am seeking opportunities where I can apply my technical knowledge, gain practical industry experience, and continue developing my skills through real-world projects.
+
+---
+
+## Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithra-project1&theme=github-compact&hide_border=true" />
+  <a href="https://www.linkedin.com/in/pavithra176">LinkedIn</a> |
+  <a href="mailto:singaramvelan203@gmail.com">Email</a> |
+  <a href="https://github.com/Pavithra-project1">GitHub</a>
 </p>
 
----
-
-# ⭐ GitHub Projects
-
 <p align="center">
-
-<a href="https://github.com/Pavithra-project1/7-Segment-Display-Embedded-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=7-Segment-Display-Embedded-Project&theme=default&hide_border=true" />
-</a>
-
-<a href="https://github.com/Pavithra-project1/4-bit-alu-verilog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavithra-project1&repo=4-bit-alu-verilog&theme=default&hide_border=true" />
-</a>
-
-</p>
-
----
-
-# 🎯 Career Focus
-
-I am seeking opportunities where I can apply my technical knowledge, gain practical industry experience and continue developing my skills through real-world projects.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pavithra-project1&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">
-  Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-  Feel free to explore my projects and connect with me.
+  Thanks for visiting my profile.
 </p>
