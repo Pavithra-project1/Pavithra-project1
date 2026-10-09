@@ -1,132 +1,155 @@
-<h1 align="center">Hi, I'm Pavithra S</h1>
+```markdown
+<h1 align="center">Hi, I'm Pavithra S.</h1>
+
+<h3 align="center">Electronics and Communication Engineering Student</h3>
 
 <p align="center">
-  Electronics and Communication Engineering Student
+  <strong>Programming | Embedded Systems | VLSI Fundamentals | Technology</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavithra176">LinkedIn</a> •
-  <a href="https://github.com/Pavithra-project1">GitHub</a> •
-  <a href="mailto:singaramvelan203@gmail.com">Email</a>
+  <strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong>
 </p>
-
----
 
 ## About Me
 
-I am a B.E. Electronics and Communication Engineering student interested in exploring technology, programming, embedded systems, data analysis, and UI/UX design.
+I am a B.E. Electronics and Communication Engineering student interested in programming, embedded systems, and technology.
 
-I enjoy learning new technologies, working on practical projects, and improving my technical and problem-solving skills.
+I enjoy exploring new technologies, developing projects, and improving my understanding of hardware and software concepts.
 
-Currently, I am exploring digital design fundamentals, Verilog HDL, embedded systems, programming, and project development.
+I am continuously learning and looking for opportunities to apply my knowledge to practical problems.
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**
+### Programming Languages
+- C
+- C++
+- Python (Basic)
 
-C • C++ • Python
+### Database
+- MySQL (Basic)
 
-**Web Technologies**
+### Web Technologies
+- HTML
+- CSS
 
-HTML • CSS
+### Embedded Systems and Simulation Tools
+- Arduino (Basic)
+- ESP32 (Basic)
+- Wokwi
+- Tinkercad
 
-**Database**
+### VLSI Fundamentals (Basic Knowledge)
+- CMOS
+- Logic Gates
+- Combinational Circuits
+- Sequential Circuits
 
-MySQL
-
-**Embedded Systems & Simulation**
-
-Arduino • Tinkercad
-
-**Data Visualization**
-
-Tableau
-
-**UI/UX Design**
-
-Figma
+### UI/UX Design
+- Figma
 
 ---
 
-## Projects
+## Soft Skills
 
-### 7-Segment Display Interface using Arduino
+- Time Management
+- Adaptability
+- Quick Learner
+- Leadership
 
-Designed and simulated a 7-segment display interface using Arduino and Tinkercad to display numeric digits.
+---
 
-**Tools:** Arduino, Tinkercad
+## Featured Projects
 
-### Food Ordering Mobile App – UI/UX Design
+### 1. 4-Bit Arithmetic Logic Unit (ALU)
 
-Designed a user-friendly food ordering mobile application with menu, food details, cart, and checkout screens.
+Designed a 4-bit ALU using Verilog HDL to perform arithmetic and logical operations through simulation.
+
+**Technologies:** Verilog HDL, EDA Playground
+
+
+
+### 2. Traffic Light Controller Using FSM
+
+Developed a traffic light controller using a finite state machine, focusing on traffic light states and transitions.
+
+**Technologies:** Verilog HDL, EDA Playground
+
+### 3. Smart Agriculture Monitoring System
+
+Developed an ESP32-based IoT project to monitor agricultural and environmental parameters, including temperature, humidity, soil moisture, rain level, light level, and distance.
+
+**Technologies:** ESP32, Wokwi, Blynk, ThingSpeak
+
+### 4. Seven-Segment Display Using Arduino
+
+Designed and simulated a seven-segment display to show numerical digits using Arduino.
+
+**Technologies:** Arduino, Tinkercad
+
+
+
+### 5. Food Ordering Mobile App — UI/UX Design
+
+Designed a food ordering mobile application interface with menu browsing, food details, cart, and checkout screens.
 
 **Tool:** Figma
-
-### 4-Bit ALU using Verilog
-
-Designed a 4-bit Arithmetic Logic Unit using Verilog HDL supporting multiple arithmetic and logical operations.
-
-**Tools:** Verilog HDL, EDA Playground
-
-### Traffic Light Controller using Verilog
-
-Designed a traffic light controller using a finite state machine and verified its operation using a testbench.
-
-**Tools:** Verilog HDL, EDA Playground
 
 ---
 
 ## Internship Experience
 
-### Data Analytics Intern
+### Data Analytics Internship
 
-- Assisted in data analysis tasks using analytical tools and techniques.
-- Applied data-driven approaches to interpret datasets and support analysis.
+- Gained exposure to data analysis tasks and analytical techniques.
+- Learned about interpreting datasets and data-driven approaches.
 
-### Embedded Systems Intern
+### Embedded Systems Internship
 
-- Learned the fundamentals of embedded systems and Arduino programming.
-- Designed and simulated basic embedded circuits using Tinkercad.
-- Developed a 7-segment display interface using Arduino.
+- Learned embedded systems fundamentals and Arduino programming.
+- Explored basic embedded circuit simulation using Tinkercad.
+- Developed a seven-segment display interface using Arduino.
 
 ---
 
-## Certifications & Workshops
+## Certifications and Workshops
 
 - Honours Diploma in Computer Applications (HDCA)
 - UX/UI Design Certification
-- Workshop – Generative Engineering with AI Tools
+- Workshop: Gen Engineering with AI Tools
+
 
 ---
 
-## Currently Exploring
+## Currently Learning
 
-- Programming and Problem Solving
-- Data Analysis and Visualization
-- UI/UX Design
-- Arduino and Embedded Systems
-- Digital Design Fundamentals
-- Verilog HDL
-- Project Development
+- Programming and Database Fundamentals
+- VLSI Fundamentals
+- Embedded Systems and IoT
+- Software Development
+- New Technologies and Tools
 
 ---
 
-## Career Focus
+## Career Interests
 
-I am seeking opportunities where I can apply my technical knowledge, gain practical industry experience, and continue developing my skills through real-world projects.
+Interested in entry-level opportunities across technology, programming, embedded systems, and related engineering fields.
+
+I aim to strengthen my technical knowledge, learn continuously, and gain practical experience.
 
 ---
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavithra176">LinkedIn</a> |
-  <a href="mailto:singaramvelan203@gmail.com">Email</a> |
-  <a href="https://github.com/Pavithra-project1">GitHub</a>
-</p>
+- **GitHub:** [Pavithra-project1](https://github.com/Pavithra-project1)
+- **LinkedIn:** [Pavithra S.](https://www.linkedin.com/in/pavithra176)
+- **Email:** [Contact Me](mailto:singaramvelan@gmail.com)
+
+---
 
 <p align="center">
-  Thanks for visiting my profile.
+  <strong>Learning Continuously | Building Projects | Growing Through Experience</strong>
 </p>
+```
